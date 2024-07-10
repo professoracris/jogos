@@ -1,0 +1,11 @@
+header {
+    background-color: dimgray;
+    text-align: center;
+    color: white;
+    }
+
+    body h2 {
+        font-size: 50px;
+        margin: 0;
+        color: blue;
+    }
